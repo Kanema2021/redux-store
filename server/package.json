@@ -2,8 +2,9 @@
   "name": "mern-server",
   "version": "1.0.0",
   "main": "server.js",
-  "engines":  {
-    "npm": "7.x"
+  "engines": {
+    "npm": "7.x",
+    "node": "14.x"
   },
   "scripts": {
     "start": "node server.js",
