@@ -48,4 +48,5 @@ THEN I find that the app uses Redux instead of the Context API
 <p><a href=https://mogodb.com>MongoDB</a></p>
 
 ## Contributer:
+
 Karen Marting
