@@ -42,11 +42,11 @@ THEN I find that the app uses Redux instead of the Context API
 
 ## Technologies Used
 
-<p><a href=https://node.js.org>Node.js/a></p>
+<p><a href=https://node.js.org>Node.js</a></p>
 <p><a href=https://react.js.org>React</a></p>
 <p><a href=https://redux.js.org>Redux</a></p>
 <p><a href=https://mogodb.com>MongoDB</a></p>
 
 ## Contributer:
 
-Karen Marting
+ <a href=https://github.com/Kanema2021>Karen Marting</a>
