@@ -37,3 +37,5 @@ THEN I find that the app uses Redux instead of the Context API
 ## Deployed App
 
 ![Redux-Store-Screenshot](https://user-images.githubusercontent.com/82725636/138528262-09d67fa1-2781-4c47-a609-049852146be0.png)
+![redux-store-screenshot-2](https://user-images.githubusercontent.com/82725636/138528450-e81eda75-8733-4100-a278-fad68ba8446a.png)
+)
